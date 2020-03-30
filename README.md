@@ -1,0 +1,2 @@
+# ElectronForGhq
+ElectronデスクトップアプリでGHQファイルを管理しやすくする。プロジェクトマネージャーアプリ。
